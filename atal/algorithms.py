@@ -1,5 +1,6 @@
-# Sort with O(n^2) complexity
-def custom_sort(alist):
+# Esse metodo recebe uma lista com as alturas dos formandos para tirar a foto
+# e retorna essa lista em ordem decrescente das altura
+def retorna_matriculas_decrescente(alist):
 	for j in xrange(len(alist)):
 		for i in xrange(len(alist)-1):
 			if alist[i] > alist[i+1]:

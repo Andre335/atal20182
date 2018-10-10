@@ -1,5 +1,5 @@
-# Esse metodo recebe uma lista com as alturas dos formandos para tirar a foto
-# e retorna essa lista em ordem decrescente das altura
+# Esse metodo recebe uma lista com as matriculas dos alunos
+# e retorna essa lista em ordem crescente de matriculas
 def retorna_matriculas_decrescente(alist):
 	for j in xrange(len(alist)):
 		for i in xrange(len(alist)-1):

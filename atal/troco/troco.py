@@ -20,7 +20,7 @@ with open(file_name, 'r') as arquivo:
 		alist = map(int, ith_entry.split())
 		
 		start = time.clock()
-		sorted_list = retorna_minimo_moedas(alist[0], alist[1:])
+		sorted_list = [retorna_minimo_moedas(alist[0], alist[1:])]
 		finish = time.clock()
 		
 		str_list = " ".join(str(x) for x in sorted_list)

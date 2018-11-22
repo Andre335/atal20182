@@ -1,8 +1,8 @@
 import random
 
-SMALL_INPUT_SIZE = 1000
-MEDIUM_INPUT_SIZE = 10000
-BIG_INPUT_SIZE = 100000
+SMALL_INPUT_SIZE = 1
+MEDIUM_INPUT_SIZE = 10
+BIG_INPUT_SIZE = 100
 
 count = 0
 output_file = open('small.txt', 'w')

@@ -20,15 +20,13 @@ with open(file_name, 'r') as arquivo:
 		alist = map(int, ith_entry.split())
 		
 		start = time.clock()
-		sorted_list = [retorna_minimo_moedas(alist[0], alist[1:])]
+		answer = [retorna_minimo_moedas(alist[0], alist[1:])]
 		finish = time.clock()
-		
-		str_list = " ".join(str(x) for x in sorted_list)
 		
 		time_diff = (finish - start) * 1000000
 		total_time += time_diff
 		
-		output.write("Caso {}: ".format(count) + str_list + "\n")
+		output.write("Caso {}: ".format(count) + answer + "\n")
 		output.write("Executou em: {} microsegundos\n\n".format(time_diff))
 		count += 1
 

@@ -13,7 +13,7 @@ def retorna_matriculas_decrescente(alist):
 
 # Esse metodo recebe e valor para ser dado o troco e uma lista com os tipos de moedas possiveis
 # e retorna o numero minimo de moedas possiveis em que o troco pode ser dado
-
+#
 # Caso o valor não possa ser alcançado pela combinação de moedas o valor -1 é retornado Ex: valor = 11  moedas = {5, 10, 25}
 # Assuma que existe uma quantidade infinita de cada tipo de moeda
 def retorna_minimo_moedas(valor, tipos_moedas):
@@ -37,4 +37,17 @@ def retorna_minimo_moedas_FB(tipos_moedas, valor):
 		
 	return resultado	 
 
-
+# Mochila Binaria interativo
+  
+# Retorna o valor maximo que cabe na mochila com 
+# capacidade peso_maximo
+def mochila_binaria(peso_maximo, pesos, valores, n): 
+  
+    if n == 0 or peso_maximo == 0 : 
+        return 0
+  
+    if (pesos[n-1] > peso_maximo): 
+        return mochila_binaria(peso_maximo, pesos, valores, n-1) 
+    else: 
+        return max(valores[n-1] + mochila_binaria(peso_maximo-pesos[n-1], pesos, valores, n-1), 
+                   mochila_binaria(peso_maximo, pesos, valores, n-1)) 

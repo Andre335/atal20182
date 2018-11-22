@@ -1,0 +1,300 @@
+Caso 1: 7508
+Executou em: 0.016867 segundos
+
+Caso 2: 6318
+Executou em: 0.012234 segundos
+
+Caso 3: 6564
+Executou em: 0.011101 segundos
+
+Caso 4: 5829
+Executou em: 0.010652 segundos
+
+Caso 5: 9276
+Executou em: 0.010663 segundos
+
+Caso 6: 7714
+Executou em: 0.010815 segundos
+
+Caso 7: 7795
+Executou em: 0.010373 segundos
+
+Caso 8: 7164
+Executou em: 0.010999 segundos
+
+Caso 9: 5773
+Executou em: 0.010894 segundos
+
+Caso 10: 6250
+Executou em: 0.010377 segundos
+
+Caso 11: 7698
+Executou em: 0.010758 segundos
+
+Caso 12: 6673
+Executou em: 0.010906 segundos
+
+Caso 13: 7413
+Executou em: 0.012021 segundos
+
+Caso 14: 6176
+Executou em: 0.013982 segundos
+
+Caso 15: 7545
+Executou em: 0.01071 segundos
+
+Caso 16: 5370
+Executou em: 0.010721 segundos
+
+Caso 17: 5218
+Executou em: 0.010513 segundos
+
+Caso 18: 7143
+Executou em: 0.011009 segundos
+
+Caso 19: 6839
+Executou em: 0.010639 segundos
+
+Caso 20: 7935
+Executou em: 0.010568 segundos
+
+Caso 21: 7738
+Executou em: 0.01074 segundos
+
+Caso 22: 7640
+Executou em: 0.01042 segundos
+
+Caso 23: 8131
+Executou em: 0.01066 segundos
+
+Caso 24: 7633
+Executou em: 0.010917 segundos
+
+Caso 25: 7994
+Executou em: 0.010344 segundos
+
+Caso 26: 8474
+Executou em: 0.010727 segundos
+
+Caso 27: 7268
+Executou em: 0.010948 segundos
+
+Caso 28: 7549
+Executou em: 0.010334 segundos
+
+Caso 29: 7362
+Executou em: 0.010854 segundos
+
+Caso 30: 8020
+Executou em: 0.010774 segundos
+
+Caso 31: 7610
+Executou em: 0.010673 segundos
+
+Caso 32: 7520
+Executou em: 0.010737 segundos
+
+Caso 33: 8429
+Executou em: 0.010769 segundos
+
+Caso 34: 8596
+Executou em: 0.011758 segundos
+
+Caso 35: 7987
+Executou em: 0.010859 segundos
+
+Caso 36: 8180
+Executou em: 0.01415 segundos
+
+Caso 37: 8745
+Executou em: 0.010615 segundos
+
+Caso 38: 6938
+Executou em: 0.010629 segundos
+
+Caso 39: 6820
+Executou em: 0.010846 segundos
+
+Caso 40: 8521
+Executou em: 0.010363 segundos
+
+Caso 41: 6524
+Executou em: 0.010691 segundos
+
+Caso 42: 6886
+Executou em: 0.010795 segundos
+
+Caso 43: 7624
+Executou em: 0.010425 segundos
+
+Caso 44: 6189
+Executou em: 0.010658 segundos
+
+Caso 45: 6870
+Executou em: 0.010944 segundos
+
+Caso 46: 8044
+Executou em: 0.010647 segundos
+
+Caso 47: 7236
+Executou em: 0.010727 segundos
+
+Caso 48: 5731
+Executou em: 0.010489 segundos
+
+Caso 49: 9144
+Executou em: 0.010721 segundos
+
+Caso 50: 8587
+Executou em: 0.010887 segundos
+
+Caso 51: 7802
+Executou em: 0.010312 segundos
+
+Caso 52: 8725
+Executou em: 0.010982 segundos
+
+Caso 53: 8434
+Executou em: 0.010893 segundos
+
+Caso 54: 5957
+Executou em: 0.010523 segundos
+
+Caso 55: 6039
+Executou em: 0.011237 segundos
+
+Caso 56: 9518
+Executou em: 0.010836 segundos
+
+Caso 57: 7370
+Executou em: 0.010535 segundos
+
+Caso 58: 8549
+Executou em: 0.010669 segundos
+
+Caso 59: 6067
+Executou em: 0.014079 segundos
+
+Caso 60: 8161
+Executou em: 0.010556 segundos
+
+Caso 61: 6549
+Executou em: 0.010742 segundos
+
+Caso 62: 4676
+Executou em: 0.010706 segundos
+
+Caso 63: 8849
+Executou em: 0.010439 segundos
+
+Caso 64: 9099
+Executou em: 0.011099 segundos
+
+Caso 65: 9744
+Executou em: 0.010885 segundos
+
+Caso 66: 8544
+Executou em: 0.010482 segundos
+
+Caso 67: 9316
+Executou em: 0.010723 segundos
+
+Caso 68: 7573
+Executou em: 0.010719 segundos
+
+Caso 69: 8278
+Executou em: 0.010487 segundos
+
+Caso 70: 7243
+Executou em: 0.010785 segundos
+
+Caso 71: 6028
+Executou em: 0.010526 segundos
+
+Caso 72: 7897
+Executou em: 0.01067 segundos
+
+Caso 73: 8827
+Executou em: 0.011113 segundos
+
+Caso 74: 6984
+Executou em: 0.010394 segundos
+
+Caso 75: 7066
+Executou em: 0.010775 segundos
+
+Caso 76: 7750
+Executou em: 0.010735 segundos
+
+Caso 77: 8292
+Executou em: 0.010496 segundos
+
+Caso 78: 7030
+Executou em: 0.010816 segundos
+
+Caso 79: 7285
+Executou em: 0.010919 segundos
+
+Caso 80: 7433
+Executou em: 0.010425 segundos
+
+Caso 81: 8166
+Executou em: 0.010727 segundos
+
+Caso 82: 5215
+Executou em: 0.011472 segundos
+
+Caso 83: 6523
+Executou em: 0.012642 segundos
+
+Caso 84: 7151
+Executou em: 0.010833 segundos
+
+Caso 85: 8552
+Executou em: 0.010715 segundos
+
+Caso 86: 8231
+Executou em: 0.010478 segundos
+
+Caso 87: 6595
+Executou em: 0.011054 segundos
+
+Caso 88: 7287
+Executou em: 0.01079 segundos
+
+Caso 89: 7327
+Executou em: 0.010277 segundos
+
+Caso 90: 6323
+Executou em: 0.010811 segundos
+
+Caso 91: 8718
+Executou em: 0.010573 segundos
+
+Caso 92: 7886
+Executou em: 0.010413 segundos
+
+Caso 93: 4831
+Executou em: 0.010808 segundos
+
+Caso 94: 4464
+Executou em: 0.010319 segundos
+
+Caso 95: 9588
+Executou em: 0.010604 segundos
+
+Caso 96: 6333
+Executou em: 0.010633 segundos
+
+Caso 97: 7891
+Executou em: 0.010415 segundos
+
+Caso 98: 8925
+Executou em: 0.010545 segundos
+
+Caso 99: 6854
+Executou em: 0.010643 segundos
+
+Caso 100: 8636
+Executou em: 0.010267 segundos
+
